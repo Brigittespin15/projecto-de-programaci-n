@@ -1,15 +1,7 @@
 #Matriz bidimensional 10x1
 matriz1 = [
-    [9],
-    [5],
-    [3],
-    [1],
-    [8],
-    [4],
-    [2],
-    [6],
-    [7],
-    [10]
+    [9,   1],
+    [5, 16],
 ]
 #imprimir la matriz no ordenada
 print("Matriz no ordenada:",matriz1)
